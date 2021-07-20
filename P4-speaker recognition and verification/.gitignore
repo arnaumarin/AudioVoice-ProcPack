@@ -1,0 +1,11 @@
+spk_8mu/
+lp/
+lpcc/
+mfcc/
+gmm/
+bin/
+outputs/
+SPTKref-3.11.pdf
+Makfile
+
+!src/gmm
