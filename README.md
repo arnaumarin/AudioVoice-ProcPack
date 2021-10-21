@@ -1,5 +1,5 @@
 # AudioVoice-ProcPack
-Package for basic Audio and Voice signal processing. 
+Package for Audio and Voice signal processing. 
 Students: 
 @jblancoarnaus 
 @arnaumarin
